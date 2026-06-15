@@ -334,3 +334,4 @@ C:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\obj\Debug\net9.0\NZWalks.API.genrunt
 C:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\obj\Debug\net9.0\ref\NZWalks.API.dll
 J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\AutoMapper.dll
 J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\obj\Debug\net9.0\NZWalks.API.sourcelink.json
