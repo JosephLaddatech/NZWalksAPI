@@ -335,3 +335,10 @@ C:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\obj\Debug\net9.0\ref\NZWalks.API.dll
 J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\AutoMapper.dll
 J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
 J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\obj\Debug\net9.0\NZWalks.API.sourcelink.json
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+J:\JLAddatechPJ\ASP.NET\NZWalks\NZWalks.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
