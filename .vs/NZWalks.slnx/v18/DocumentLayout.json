@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF553A9F-6743-BF20-C0BF-E3D1AF354BE0}|NZWalks.API\\NZWalks.API.csproj|j:\\jladdatechpj\\asp.net\\nzwalks\\nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Program.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
-              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Program.cs",
-              "RelativeToolTip": "NZWalks.API\\Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAswD8AAAAdAAAAAAAAAA==",
+              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Program.cs*",
+              "RelativeToolTip": "NZWalks.API\\Program.cs*",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwG8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T17:06:11.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LocalImageRepository.cs",
               "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Repositories\\LocalImageRepository.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\LocalImageRepository.cs",
-              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Repositories\\LocalImageRepository.cs*",
-              "RelativeToolTip": "NZWalks.API\\Repositories\\LocalImageRepository.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA0wBYAAABaAAAAAAAAAA==",
+              "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\LocalImageRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAzwBYAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T16:59:06.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IImageRepository.cs",
               "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IImageRepository.cs",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ImageUploadRequestDto.cs",
               "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ImagesController.cs",
               "DocumentMoniker": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\ImagesController.cs",
