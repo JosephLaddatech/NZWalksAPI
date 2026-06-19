@@ -14,6 +14,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+// Section 10 in the ASP.NET Course
 var logger = new LoggerConfiguration()
     .WriteTo.Console()
     .MinimumLevel.Warning()
