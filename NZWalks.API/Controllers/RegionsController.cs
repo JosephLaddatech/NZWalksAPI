@@ -38,25 +38,13 @@ namespace NZWalks.API.Controllers
         //[Authorize(Roles = "Reader")]
         public async Task<IActionResult> GetAll()
         {
-            try
-            {
-                throw new Exception("This is a custom exception");
+            // Get Data From Database - Domain models
+            var regionsDomain = await regionRepository.GetAllAsync();
 
-                // Get Data From Database - Domain models
-                var regionsDomain = await regionRepository.GetAllAsync();
+            logger.LogInformation($"Finished GetAllRegions request with data: {JsonSerializer.Serialize(regionsDomain)}");
 
-                // Return DTO's
-
-                logger.LogInformation($"Finished GetAllRegions request with data: {JsonSerializer.Serialize(regionsDomain)}");
-
-                return Ok(mapper.Map<List<RegionDto>>(regionsDomain));
-            }
-            catch (Exception ex)
-            {
-                logger.LogError(ex, ex.Message);
-                throw;
-            }
-               
+            // Return DTO's
+            return Ok(mapper.Map<List<RegionDto>>(regionsDomain));
         }
 
 

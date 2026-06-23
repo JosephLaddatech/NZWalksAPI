@@ -121,9 +121,16 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 //In Section 9 of the ASP.NET Course
+var imagesPath = Path.Combine(Directory.GetCurrentDirectory(), "Images");
+
+if (!Directory.Exists(imagesPath))
+{
+Directory.CreateDirectory(imagesPath);
+}
+
 app.UseStaticFiles(new StaticFileOptions
 {
-    FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "Images")),
+    FileProvider = new PhysicalFileProvider(imagesPath),
     RequestPath = "/Images"
 });
 
