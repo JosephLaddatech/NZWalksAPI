@@ -38,8 +38,7 @@
               "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-23T19:38:17.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T19:38:17.31Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Edit.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAowCAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-23T19:29:49.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T19:29:49.988Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "NZWalks.UI\\Controllers\\RegionsController.cs",
               "ToolTip": "J:\\JLAddatechPJ\\ASP.NET\\NZWalks\\NZWalks.UI\\Controllers\\RegionsController.cs",
               "RelativeToolTip": "NZWalks.UI\\Controllers\\RegionsController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAAG8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAADwv2oAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-23T18:03:33.66Z",
               "EditorCaption": ""

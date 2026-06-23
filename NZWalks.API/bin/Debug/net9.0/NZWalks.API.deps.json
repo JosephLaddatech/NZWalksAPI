@@ -12,8 +12,8 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.17",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.17",
           "Microsoft.AspNetCore.OpenApi": "9.0.16",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.9",
-          "Microsoft.EntityFrameworkCore.Tools": "9.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.15",
+          "Microsoft.EntityFrameworkCore.Tools": "9.0.15",
           "Microsoft.IdentityModel.Tokens": "8.19.1",
           "Serilog": "4.3.1",
           "Serilog.AspNetCore": "9.0.0",
@@ -498,7 +498,7 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Design/9.0.9": {
+      "Microsoft.EntityFrameworkCore.Design/9.0.15": {
         "dependencies": {
           "Humanizer.Core": "2.14.1",
           "Microsoft.Build.Locator": "1.7.8",
@@ -508,14 +508,14 @@
           "Microsoft.EntityFrameworkCore.Relational": "9.0.17",
           "Microsoft.Extensions.Caching.Memory": "9.0.17",
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.17",
-          "Microsoft.Extensions.DependencyModel": "9.0.9",
+          "Microsoft.Extensions.DependencyModel": "9.0.15",
           "Microsoft.Extensions.Logging": "9.0.17",
           "Mono.TextTemplating": "3.0.0"
         },
         "runtime": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.Design.dll": {
-            "assemblyVersion": "9.0.9.0",
-            "fileVersion": "9.0.925.41909"
+            "assemblyVersion": "9.0.15.0",
+            "fileVersion": "9.0.1526.17602"
           }
         }
       },
@@ -533,7 +533,7 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/9.0.9": {
+      "Microsoft.EntityFrameworkCore.SqlServer/9.0.15": {
         "dependencies": {
           "Microsoft.Data.SqlClient": "5.1.6",
           "Microsoft.EntityFrameworkCore.Relational": "9.0.17",
@@ -543,14 +543,14 @@
         },
         "runtime": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {
-            "assemblyVersion": "9.0.9.0",
-            "fileVersion": "9.0.925.41909"
+            "assemblyVersion": "9.0.15.0",
+            "fileVersion": "9.0.1526.17602"
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Tools/9.0.9": {
+      "Microsoft.EntityFrameworkCore.Tools/9.0.15": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "9.0.9"
+          "Microsoft.EntityFrameworkCore.Design": "9.0.15"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/9.0.17": {
@@ -609,11 +609,11 @@
           }
         }
       },
-      "Microsoft.Extensions.DependencyModel/9.0.9": {
+      "Microsoft.Extensions.DependencyModel/9.0.15": {
         "runtime": {
           "lib/net9.0/Microsoft.Extensions.DependencyModel.dll": {
-            "assemblyVersion": "9.0.0.9",
-            "fileVersion": "9.0.925.41916"
+            "assemblyVersion": "9.0.0.15",
+            "fileVersion": "9.0.1526.17522"
           }
         }
       },
@@ -885,7 +885,7 @@
       },
       "Serilog.Settings.Configuration/9.0.0": {
         "dependencies": {
-          "Microsoft.Extensions.DependencyModel": "9.0.9",
+          "Microsoft.Extensions.DependencyModel": "9.0.15",
           "Serilog": "4.3.1"
         },
         "runtime": {
@@ -1329,12 +1329,12 @@
       "path": "microsoft.entityframeworkcore.abstractions/9.0.17",
       "hashPath": "microsoft.entityframeworkcore.abstractions.9.0.17.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Design/9.0.9": {
+    "Microsoft.EntityFrameworkCore.Design/9.0.15": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-cFxH70tohWe3ugCjLhZB01mR7WHpg5dEK6zHsbkDFfpLxWT+HoZQKgchTJgF4bPWBPTyrlYlqfPY212fFtmJjg==",
-      "path": "microsoft.entityframeworkcore.design/9.0.9",
-      "hashPath": "microsoft.entityframeworkcore.design.9.0.9.nupkg.sha512"
+      "sha512": "sha512-Q38R8kv3kScn8m02SSD3Clj4iD9ys+qtEm3BhM6VQUPeqkwwF26I4i9DQtouqmK8nzeL51409cEdDfmpo22NsA==",
+      "path": "microsoft.entityframeworkcore.design/9.0.15",
+      "hashPath": "microsoft.entityframeworkcore.design.9.0.15.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/9.0.17": {
       "type": "package",
@@ -1343,19 +1343,19 @@
       "path": "microsoft.entityframeworkcore.relational/9.0.17",
       "hashPath": "microsoft.entityframeworkcore.relational.9.0.17.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/9.0.9": {
+    "Microsoft.EntityFrameworkCore.SqlServer/9.0.15": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-t+6Zo92F5CgKyFncPSWRB3DFNwBrGug9F6rlrUFlJEr4Bf0t4ZFhZLg0qfuA3ouT7AQKuLTrvXLxuov8DWcuPQ==",
-      "path": "microsoft.entityframeworkcore.sqlserver/9.0.9",
-      "hashPath": "microsoft.entityframeworkcore.sqlserver.9.0.9.nupkg.sha512"
+      "sha512": "sha512-zHyQEBxeXriaM9v08CfShVAW3BDnMgqzqt/whPjvuYZB85Pc0mYP9lYr3v5d0mOoYQEZ60aXKb2kTaYZMDhzPg==",
+      "path": "microsoft.entityframeworkcore.sqlserver/9.0.15",
+      "hashPath": "microsoft.entityframeworkcore.sqlserver.9.0.15.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Tools/9.0.9": {
+    "Microsoft.EntityFrameworkCore.Tools/9.0.15": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Q8n1PXXJApa1qX8HI3r/YuHoJ1HuLwjI2hLqaCV9K9pqQhGpi6Z38laOYwL2ElUOTWCxTKMDEMMYWfPlw6rwgg==",
-      "path": "microsoft.entityframeworkcore.tools/9.0.9",
-      "hashPath": "microsoft.entityframeworkcore.tools.9.0.9.nupkg.sha512"
+      "sha512": "sha512-QT3iBy2zJYGFrk0RFHG8i4pQJ89YllWBjB7fHy8/ZAgdLsfSwJW896zwQgMRzRqpD8RP1184LPIpwAzkwg4Zvw==",
+      "path": "microsoft.entityframeworkcore.tools/9.0.15",
+      "hashPath": "microsoft.entityframeworkcore.tools.9.0.15.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/9.0.17": {
       "type": "package",
@@ -1392,12 +1392,12 @@
       "path": "microsoft.extensions.dependencyinjection.abstractions/10.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
     },
-    "Microsoft.Extensions.DependencyModel/9.0.9": {
+    "Microsoft.Extensions.DependencyModel/9.0.15": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-fNGvKct2De8ghm0Bpfq0iWthtzIWabgOTi+gJhNOPhNJIowXNEUE2eZNW/zNCzrHVA3PXg2yZ+3cWZndC2IqYA==",
-      "path": "microsoft.extensions.dependencymodel/9.0.9",
-      "hashPath": "microsoft.extensions.dependencymodel.9.0.9.nupkg.sha512"
+      "sha512": "sha512-zt6n0QA6ufiSYJFURYCnQcOP48fRvmlLtbKwgAoPoBjuBGZ+2g+yhu3MRxOjfiA3iHpjlMoDJcNMOhRMVG64oQ==",
+      "path": "microsoft.extensions.dependencymodel/9.0.15",
+      "hashPath": "microsoft.extensions.dependencymodel.9.0.15.nupkg.sha512"
     },
     "Microsoft.Extensions.Identity.Core/9.0.17": {
       "type": "package",
